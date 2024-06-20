@@ -1,7 +1,7 @@
 import os, shutil
 
 #Create source path and destination path
-from_dir = "C:/Users/aadit/OneDrive/Desktop/Project102/Downloads/"
+from_dir = "C:/Users/aadit/Downloads/"
 to_dir = "C:/Users/aadit/OneDrive/Desktop/Project102/"
 
 #List of files present in source path
